@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dumojo.github.io/sitemap.xml
