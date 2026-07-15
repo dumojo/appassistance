@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drivege.github.io/sitemap.xml
+Sitemap: https://appassistance.services/sitemap.xml
