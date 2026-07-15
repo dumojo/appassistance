@@ -1,0 +1,19 @@
+# App Assistance
+
+> iOS apps by independent developer Artem Dorozhkin (IE Artem Dorozhkin). Focused, easy-to-use apps for everyday tasks: driving exam preparation, health tracking, AI video creation, document scanning, invoicing and PDF tools. All apps are free to download on the Apple App Store.
+
+## Apps
+
+- [Georgia Driving Test: DriveGE](https://appassistance.services/drivege/): App for preparing for the official driving licence theory exam in Georgia (the country). Uses the official exam questions of the LEPL Service Agency of the Ministry of Internal Affairs of Georgia. Fully available in English, Russian and Georgian. Includes unlimited practice, realistic mock exams with official rules and timer, explanations referencing traffic law, road sign catalogue, and progress tracking. Covers licence categories A, B, C, D and AM. App Store: https://apps.apple.com/app/id6774959850
+- [Pulse Measure & Blood Pressure](https://appassistance.services/pulse/): Measure heart rate with the iPhone camera, log blood pressure, guided breathing when readings are high, Apple Health and Apple Watch sync. App Store: https://apps.apple.com/app/id6748323105
+- [Calora: Food & Calorie Tracker](https://appassistance.services/calora/): Calorie, macro and meal tracker with food journal, calorie calculator, keto and low-carb support. App Store: https://apps.apple.com/app/id6751401048
+- [Clipra AI Video Maker & Editor](https://appassistance.services/clipra/): AI video generation from photos or text prompts, trending effects, templates for Reels and Shorts. App Store: https://apps.apple.com/app/id6758008703
+- [ScanPro: PDF Scanner & Editor](https://appassistance.services/scanpro/): Document scanner with AI enhancement, batch scanning, PDF/JPG/PNG export, offline mode. App Store: https://apps.apple.com/app/id6748518542
+- [Invoice: Estimates & Receipts](https://appassistance.services/invoice/): Create invoices, estimates and receipts, track payments and clients, analytics and PDF export. App Store: https://apps.apple.com/app/id6753165868
+- [PDF: Reader, Scanner, Editor](https://appassistance.services/pdf/): All-in-one PDF toolkit — reader, editor, e-signature, scanner with OCR, converter, form filling. App Store: https://apps.apple.com/app/id6742465810
+
+## Contact
+
+- Developer: Artem Dorozhkin
+- Email: dumojo@icloud.com
+- App Store developer page: https://apps.apple.com/developer/artem-dorozhkin/id1798545981
